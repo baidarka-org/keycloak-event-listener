@@ -1,0 +1,10 @@
+<jboss-deployment-structure>
+    <deployment>
+        <dependencies>
+            <module name="org.projectlombok.lombok" />
+        </dependencies>
+        <dependencies>
+            <module name="org.apache.kafka.kafka-clients" />
+        </dependencies>
+    </deployment>
+</jboss-deployment-structure>
